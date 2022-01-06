@@ -18,7 +18,7 @@
 # Your own ADA address where you want the UTxO change to go to
 CHANGEaddr=addr1qxsrrmx4qa730pnpe55tyauqlplnsgcwavcjdjmh8xjx4c4alf32zg34la8v8u7k8plyacyykm9sfg49yv9wn3nnjn0qnpa8vl
 
-# ADA in lovelace - 1 ADA = 1000000 Lovelace
+# ADA in lovelace: 1 ADA = 1000000 Lovelace
 NFTcost=1000000
 
 # address to send ADA to mint
