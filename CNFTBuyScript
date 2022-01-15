@@ -14,6 +14,8 @@
 ###################################################################### 
 # Script Variables
 ###################################################################### 
+# Set to your default node folder
+cd $NODE_HOME
 
 # Your own ADA address where you want the UTxO change to go to
 CHANGEaddr=addr1qxsrrmx4qa730pnpe55tyauqlplnsgcwavcjdjmh8xjx4c4alf32zg34la8v8u7k8plyacyykm9sfg49yv9wn3nnjn0qnpa8vl
@@ -69,7 +71,7 @@ echo Total ADA balance: ${total_balance}
 echo Number of UTXOs: ${txcnt}
 
 ###################################################################### 
-Build Draft
+# Build Draft
 ######################################################################
 
 cardano-cli transaction build-raw \
