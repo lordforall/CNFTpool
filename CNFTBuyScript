@@ -14,8 +14,8 @@
 ###################################################################### 
 # Script Variables
 ###################################################################### 
-# Set to your default node folder
-cd $NODE_HOME
+# Set to your wallet folder with "payment.skey" for your wallet
+cd $CNODE_HOME/priv/wallet/mint
 
 # Your own ADA address where you want the UTxO change to go to
 CHANGEaddr=addr1qxsrrmx4qa730pnpe55tyauqlplnsgcwavcjdjmh8xjx4c4alf32zg34la8v8u7k8plyacyykm9sfg49yv9wn3nnjn0qnpa8vl
