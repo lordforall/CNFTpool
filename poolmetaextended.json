@@ -7,7 +7,7 @@
             "twitter_handle": "MattyForAll",
             "telegram_handle": "",
             "facebook_handle": "",
-            "youtube_handle": "channel/UCpz7w-c5CNqEyp6XW1YMkcA",
+            "youtube_handle": "",
             "twitch_handle": "",
             "discord_handle": "",
             "github_handle": ""
@@ -15,14 +15,14 @@
         "company": {
             "name": "",
             "addr": "",
-            "city": "",
-            "country": "",
+            "city": "Melbourne",
+            "country": "Australia",
             "company_id": "",
             "vat_id": ""
         },
         "about": {
             "me": "",
-            "server": "Bare Metal Server - 100% Renewables - With backup relay in the cloud",
+            "server": "Bare Metal Server - Running on 7.7kW Solar & UPS",
             "company": ""
         },
     "my-pool-ids": {
